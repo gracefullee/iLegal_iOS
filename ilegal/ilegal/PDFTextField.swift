@@ -2,8 +2,8 @@
 //  PDFTextField.swift
 //  ilegal
 //
-//  Created by ITP on 10/19/16.
-//  Copyright © 2016 Jordan. All rights reserved.
+//  Created by Yoo Jin Lee on 10/19/16.
+//  Copyright © 2016 Yoo Jin. All rights reserved.
 //
 
 import UIKit

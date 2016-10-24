@@ -2,8 +2,8 @@
 //  SavedFilesCollectionViewController.swift
 //  ilegal
 //
-//  Created by ITP on 9/12/16.
-//  Copyright © 2016 Jordan. All rights reserved.
+//  Created by Yoo Jin Lee on 9/12/16.
+//  Copyright © 2016 Yoo Jin. All rights reserved.
 //
 
 import UIKit

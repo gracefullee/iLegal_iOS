@@ -2,8 +2,8 @@
 //  DonePDFViewController.swift
 //  ilegal
 //
-//  Created by Tae Ha Lee on 10/16/16.
-//  Copyright © 2016 Jordan. All rights reserved.
+//  Created by Yoo Jin Lee on 9/12/16.
+//  Copyright © 2016 Yoo Jin. All rights reserved.
 //
 
 import UIKit
