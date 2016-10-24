@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.0.1)
+  - CryptoSwift (0.6.0)
+  - ILPDFKit (1.0.5)
+  - SwiftyJSON (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - CryptoSwift
+  - ILPDFKit
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  CryptoSwift: 4a599b7241b8d3b857d6e2c28867d0bd5d1aae24
+  ILPDFKit: e208473cc97dd889c1cdf97711816be1ec64f8fe
+  SwiftyJSON: 29b9f2a64f118c07e691667c2ba1efe536acfe0b
+
+PODFILE CHECKSUM: 8c1a370e1e3a3ecc21ba775c5f5ec4cdfa8e0b05
+
+COCOAPODS: 1.1.0.rc.2
